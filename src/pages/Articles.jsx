@@ -11,7 +11,7 @@ const Articles = () => {
                         <p style={{marginBottom: 16}}><Words animate show={anim.entered}>
                             Hello, hackers!. Today hibi221b's website is now available on Github Pages.
                         </Words></p>
-                         <Link href="https://github.com/hibi221b/hibi221b.github.io">https://github.com/hibi221b/hibi221b.github.io</Link>
+                        <Link href="https://github.com/hibi221b/hibi221b.github.io">{">> Home Page"}</Link>
                     </div>
                 )}
             </Project>
