@@ -1,0 +1,25 @@
+.home {
+    text-align: center;
+    margin-top: 56px;
+}
+
+.home .logo {
+    margin-bottom: 48px;
+}
+
+.home .desc {
+    margin-bottom: 48px;
+}
+
+.home .links {
+    display: flex;
+    justify-content: center;
+}
+
+.home .links .links-item {
+    margin: 0px 32px 0px 32px;
+}
+
+.home .article-button {
+    margin-top: 48px;
+}
