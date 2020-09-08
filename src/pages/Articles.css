@@ -1,14 +1,10 @@
 .article-top {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 100%;
+    max-width: 720px;
+    margin: 0 auto;
 }
 
-.article-top .article-container {
-    width: 720px;
-}
-
-.article-top .article-container .project {
+.article-top .container {
+    width: 100%;
     margin: 0px 8px 56px 8px;
 }
