@@ -14,7 +14,7 @@ const Articles = () => {
                     {anim => (
                         <div>
                             {/* <Image animate show={anim.entered} resources={PIEN} style={{width: 100, margin: "0px auto 16px auto"}}></Image> */}
-                            <Image animate show={anim.entered} resources={pienGif} style={{width: 320, margin: "8px auto 24px auto"}}>PIEN</Image>
+                            <Image animate show={anim.entered} resources={pienGif} style={{width: 240, margin: "8px auto 24px auto"}}>PIEN</Image>
                             <p style={{marginBottom: 16}}><Words animate show={anim.entered}>
                             The pien can be displayed on the web, created using a 3D rendering framework called Zdog. 
                             </Words></p>
